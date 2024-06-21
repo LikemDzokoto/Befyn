@@ -49,10 +49,10 @@ The healthcare industry faces numerous challenges including:
 
 #### Key Features 
 - Claim proving  and pool management
--  Befyn Insurance Claim Score
-E. Flexible insurance packages
-F. Rewards from pool stake
-G. Transparency and strict governance
+- Befyn Insurance Claim Score
+- Flexible insurance packages
+- Rewards from pool stake
+- Transparency and strict governance
 
 #### Future Developments
 - A. Integration with healthcare providers
