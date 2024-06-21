@@ -31,7 +31,7 @@ https://gamma.app/docs/78qrefzwtqmo6pc?following_id=iqfcpbvulqnxtiy&follow_on_st
 
 
 
-### Inspiration Behind Building Befyn 
+## Inspiration Behind Building Befyn 
 
 ### At Befyn, we're driven by a passion for harnessing blockchain technology to create solutions that improve people's lives, particularly in accessing quality healthcare. We're committed to addressing the rampant incidents of fraudulent claims and false proofs plaguing the industry.
 
