@@ -9,10 +9,10 @@ Invest in your health and earn from the collective care
 
 ## Problem
 --------
-*According to the Coalition Against Insurance Fraud, the overall cost of insurance fraud is estimated to be around $40 billion to $80 billion per year in the United States alone. Here are some general statistics on insurance fraud:
+`According to the Coalition Against Insurance Fraud, the overall cost of insurance fraud is estimated to be around $40 billion to $80 billion per year in the United States alone. Here are some general statistics on insurance fraud:
 10% of all insurance claims are fraudulent. (Source: Insurance Information Institute)
 $40 billion to $80 billion is the estimated annual cost of insurance fraud in the United States. (Source: Coalition Against Insurance Fraud)
-1 in 10 claims are fraudulent in the property-casualty insurance industry. (Source: Insurance Research Council)
+1 in 10 claims are fraudulent in the property-casualty insurance industry. (Source: Insurance Research Council)`
 * Lack of transparency in health insurance companies' earnings and payouts
 * Minimal payouts to users in times of crisis
 * Fraudulent claims and incentivization for users to fake accidents
