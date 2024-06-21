@@ -53,11 +53,11 @@ F. Rewards from pool stake
 G. Transparency and strict governance
 
 #### Future Developments
-A. Integration with healthcare providers
-B. Expansion of insurance packages
-C. Enhanced security measures 
-D. User-friendly interface
-E. Refining the product features and technology
+- A. Integration with healthcare providers
+- B. Expansion of insurance packages
+- C. Enhanced security measures 
+- D. User-friendly interface
+- E. Refining the product features and technology
 
 
 
