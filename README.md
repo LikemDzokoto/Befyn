@@ -33,6 +33,8 @@ https://gamma.app/docs/78qrefzwtqmo6pc?following_id=iqfcpbvulqnxtiy&follow_on_st
 
 ### Inspiration Behind Building Befyn 
 
+##### At Befyn, we're driven by a passion for harnessing blockchain technology to create solutions that improve people's lives, particularly in accessing quality healthcare. We're committed to addressing the rampant incidents of fraudulent claims and false proofs plaguing the industry.
+
 The healthcare industry faces numerous challenges including:
 - Lack of transparency in insurance companies' earnings and payouts
 - Minimal payouts to users in times of crisis
@@ -40,7 +42,7 @@ The healthcare industry faces numerous challenges including:
 - No strict governance for maturity time to access insurance covers
 - High premiums due to centralized bureaucracy.
 
-- At Befyn, we're driven by a passion for harnessing blockchain technology to create solutions that improve people's lives, particularly in accessing quality healthcare. We're committed to addressing the rampant incidents of fraudulent claims and false proofs plaguing the industry. Our goal is to design a solution that:
+ Our goal is to design a solution that:
 
 - Provides high insurance covers in times of need Incentivizes individuals to continue paying monthly premiums by earning yields on staking, unlike traditional insurance Ensures transparency, security, and decentralization in healthcare financing
 - We believe that access to quality healthcare is a fundamental right, regardless of race or gender. By leveraging blockchain and knowledge technology, we aim to create a fair, user-centric, and community-driven healthcare financing system that prioritizes people's well-being over profits.
