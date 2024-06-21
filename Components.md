@@ -6,7 +6,7 @@
 
 
 ## Functions:
-`
+
 - register(): Allows a user to register.
 - premiumA() and premiumB(): Allow users to make premium payments.
 - getPaymentHistory(): Returns a user's payment history.
@@ -16,14 +16,14 @@
 - poolBalance(): Returns the contract's balance.
 - receive() and fallback(): Fallback functions to receive Ether (currently set to call premiumA()).
 
-`
+
 
 ## Structs
-`
+
 - User: Stores information about a user's payments and claims.
 - PaymentHistory and ClaimHistory: Store information about a user's payments and claims respectively.
 
-`
+
 ## Event
 `
 - UserPaymentEvent: Emitted when a user makes a premium payment.
@@ -32,6 +32,6 @@
 - ClaimMade and ClaimPaid: Emitted when a claim is made and paid respectively.
 - PoolUpdateEvent: Emitted when the contract's balance is updated.
 
-`
+
 
 
