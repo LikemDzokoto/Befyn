@@ -4,7 +4,7 @@
 ![Screenshot 2024-06-20 121645](https://github.com/LikemDzokoto/Befyn/assets/45667432/5199732b-c432-4709-88c8-da3d409a6d1c)
 
 
-#### This repository houses the product documentation, technical architecture guides, and developer resources for Befyn, providing a comprehensive overview of the product's technical aspects
+### This repository houses the product documentation, technical architecture guides, and developer resources for Befyn, providing a comprehensive overview of the product's technical aspects
 
 
 
@@ -33,7 +33,7 @@ https://gamma.app/docs/78qrefzwtqmo6pc?following_id=iqfcpbvulqnxtiy&follow_on_st
 
 ## Inspiration Behind Building Befyn 
 
-### At Befyn, we're driven by a passion for harnessing blockchain technology to create solutions that improve people's lives, particularly in accessing quality healthcare. We're committed to addressing the rampant incidents of fraudulent claims and false proofs plaguing the industry.
+### At Befyn, we're driven by a passion for harnessing blockchain technology to create solutions that improve people's lives, particularly in accessing quality healthcare. We're committed to addressing the rampant incidents of fraudulent claims and false proofs plaguing the Health Insurance  industry.
 
 The healthcare industry faces numerous challenges including:
 - Lack of transparency in insurance companies' earnings and payouts
