@@ -1,6 +1,9 @@
 # Befyn-Docs
 
 
+![Screenshot 2024-06-20 121645](https://github.com/LikemDzokoto/Befyn/assets/45667432/5199732b-c432-4709-88c8-da3d409a6d1c)
+
+
 #### This repository houses the product documentation, technical architecture guides, and developer resources for Befyn, providing a comprehensive overview of the product's technical aspects
 
 
