@@ -12,6 +12,9 @@
 
 https://github.com/LikemDzokoto/Befyn-Dapp
 
+## Live Demo Link 
+https://befyn-dapp.vercel.app
+
 
 ## Smart Contracts Repo
 
