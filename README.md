@@ -60,7 +60,7 @@ The healthcare industry faces numerous challenges including:
 #### Future Developments
 - A. Integration with healthcare providers
 - B. Expansion of insurance packages
-- C. Enhanced security measures 
+- C. Implementing  account abstraction for  ease of onboarding flow
 - D. User-friendly interface
 - E. Refining the product features and technology
 
