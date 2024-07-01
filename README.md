@@ -31,6 +31,8 @@ https://inquisitive-pea-81d.notion.site/Befyn-Revolutionizing-Healthcare-Financi
 
 https://gamma.app/docs/78qrefzwtqmo6pc?following_id=iqfcpbvulqnxtiy&follow_on_start=true
 
+https://www.canva.com/design/DAGJht0fbig/2EZoGP4s0xdDSTDrrL2PuQ/edit?utm_content=DAGJht0fbig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 
 
